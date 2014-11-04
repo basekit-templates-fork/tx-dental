@@ -1,7 +1,7 @@
 {
-    "name":"Panorama",
-    "thumbnail":"panorama.png",
-    "screenshot":"panorama.png",
+    "name":"TX Dental",
+    "thumbnail":"tx-dental.png",
+    "screenshot":"tx-dental.png",
     "templateType":"standard",
     "images":[
         "images/feature-bg.jpg"
@@ -14,11 +14,11 @@
         "Swatch 1": {
             "color1":"#f1f1f1",
             "color2":"#ffffff",
-            "color3":"#4d758b",
+            "color3":"#39afcb",
             "color4":"#505656",
             "color5":"#9d9c9b",
             "color6":"#9d9c9b",
-            "color7":"#989ea3"
+            "color7":"#4c717a"
         },
         "Swatch 2": {
             "color1":"#f1f1f1",
@@ -60,7 +60,7 @@
     "fontSwatch": {
        "title": "Droid Sans",
         "font1": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Arial\", sans-serif",
             "font-size": "34px",
             "font-weight": "400",
             "line-height": "49px",
@@ -68,7 +68,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Arial\", sans-serif",
             "font-size": "30px",
             "font-weight": "400",
             "line-height": "42px",
@@ -76,7 +76,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Arial\", sans-serif",
             "font-size": "24px",
             "font-weight": "400",
             "line-height": "34px",
@@ -84,7 +84,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Arial\", sans-serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "26px",
@@ -92,7 +92,7 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Arial\", sans-serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "26px",
@@ -100,7 +100,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Arial\", sans-serif",
             "font-size": "16px",
             "font-weight": "400",
             "line-height": "26px",
@@ -111,7 +111,7 @@
             "background-color-hover": "transparent"
         },
         "font7": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Arial\", sans-serif",
             "font-size": "15px",
             "font-weight": "400",
             "line-height": "25px",
@@ -121,7 +121,7 @@
             "background-color-hover": "lighten(@color-swatch3,10%)"
         },
         "font8": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Arial\", sans-serif",
             "font-size": "35px",
             "font-weight": "400",
             "line-height": "47px",
@@ -129,7 +129,7 @@
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Arial\", sans-serif",
             "font-size": "16px",
             "font-weight": "400",
             "line-height": "28px",
@@ -137,7 +137,7 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Arial\", sans-serif",
             "font-size": "26px",
             "font-weight": "700",
             "line-height": "36px",

@@ -1,5 +1,3 @@
 
-Panorama
-========
-
-Basekit Standard Template
+TX DENTAL
+=========
