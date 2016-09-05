@@ -1,64 +1,66 @@
 {
-    "name":"TX Dental",
-    "thumbnail":"tx-dental.png",
-    "screenshot":"tx-dental.png",
-    "templateType":"standard",
-    "images":[
+    "name": "TX Dental",
+    "thumbnail": "tx-dental.png",
+    "screenshot": "tx-dental-screenshot.jpg",
+    "templateType": "standard",
+    "images": [
         "images/feature-bg2.jpg"
     ],
     "tags": {
-    "en": ["clean", "minimal"]
+        "en": [
+            "clean",
+            "minimal"
+        ]
     },
-    "colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#f1f1f1",
-            "color2":"#ffffff",
-            "color3":"#39afcb",
-            "color4":"#505656",
-            "color5":"#9d9c9b",
-            "color6":"#9d9c9b",
-            "color7":"#4c717a"
+            "color1": "#f1f1f1",
+            "color2": "#ffffff",
+            "color3": "#39afcb",
+            "color4": "#505656",
+            "color5": "#9d9c9b",
+            "color6": "#9d9c9b",
+            "color7": "#4c717a"
         },
         "Swatch 2": {
-            "color1":"#f1f1f1",
-            "color2":"#ffffff",
-            "color3":"#eea35d",
-            "color4":"#636260",
-            "color5":"#888889",
-            "color6":"#a4a4a5",
-            "color7":"#636260"
+            "color1": "#f1f1f1",
+            "color2": "#ffffff",
+            "color3": "#eea35d",
+            "color4": "#636260",
+            "color5": "#888889",
+            "color6": "#a4a4a5",
+            "color7": "#636260"
         },
         "Swatch 3": {
-            "color1":"#f1f1f1",
-            "color2":"#ffffff",
-            "color3":"#4d5761",
-            "color4":"#4d5761",
-            "color5":"#919190",
-            "color6":"#a7a4a4",
-            "color7":"#77787b"
+            "color1": "#f1f1f1",
+            "color2": "#ffffff",
+            "color3": "#4d5761",
+            "color4": "#4d5761",
+            "color5": "#919190",
+            "color6": "#a7a4a4",
+            "color7": "#77787b"
         },
         "Swatch 4": {
-            "color1":"#f1f1f1",
-            "color2":"#ffffff",
-            "color3":"#8d7b6f",
-            "color4":"#5c5b5f",
-            "color5":"#919190",
-            "color6":"#a7a4a4",
-            "color7":"#a1968e"
+            "color1": "#f1f1f1",
+            "color2": "#ffffff",
+            "color3": "#8d7b6f",
+            "color4": "#5c5b5f",
+            "color5": "#919190",
+            "color6": "#a7a4a4",
+            "color7": "#a1968e"
         },
         "Swatch 5": {
-            "color1":"#f1f1f1",
-            "color2":"#ffffff",
-            "color3":"#519d9b",
-            "color4":"#52605f",
-            "color5":"#919190",
-            "color6":"#a7a4a4",
-            "color7":"#b6b8b8"
+            "color1": "#f1f1f1",
+            "color2": "#ffffff",
+            "color3": "#519d9b",
+            "color4": "#52605f",
+            "color5": "#919190",
+            "color6": "#a7a4a4",
+            "color7": "#b6b8b8"
         }
     },
     "fontSwatch": {
-       "title": "Droid Sans",
+        "title": "Droid Sans",
         "font1": {
             "font-family": "\"Arial\", sans-serif",
             "font-size": "34px",
