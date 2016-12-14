@@ -3,8 +3,9 @@
     "thumbnail": "tx-dental.png",
     "screenshot": "tx-dental-screenshot.jpg",
     "templateType": "standard",
+    "pageTypes": ["home"],
     "images": [
-        "images/feature-bg2.jpg"
+        "images/feature-bg.jpg"
     ],
     "tags": {
         "en": [
